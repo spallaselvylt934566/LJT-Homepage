@@ -1,7 +1,7 @@
 ---
 title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
 collection: publications
-year: 2025
+publication_year: 2025
 venue: "Arxiv"
 first_author: true
 authors:

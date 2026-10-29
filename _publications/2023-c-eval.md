@@ -1,7 +1,7 @@
 ---
 title: "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"
 collection: publications
-year: 2023
+publication_year: 2023
 venue: "NeurIPS 2023"
 authors:
   - "Yuzhen Huang"

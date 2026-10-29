@@ -1,7 +1,7 @@
 ---
 title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-year: 2024
+publication_year: 2024
 venue: "EMNLP 2024"
 first_author: true
 authors:

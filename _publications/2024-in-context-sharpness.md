@@ -1,7 +1,7 @@
 ---
 title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
 collection: publications
-year: 2024
+publication_year: 2024
 venue: "ICML 2024"
 authors:
   - "Shiqi Chen"
